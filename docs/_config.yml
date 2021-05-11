@@ -2,7 +2,7 @@
 title: with the moon
 url: http://withthemoon.xyz
 paginate: 1
-baseurl: "http://withthemoon.xyz"
+baseurl: ""
 permalink: pretty
 
 # Gems
