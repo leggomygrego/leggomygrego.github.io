@@ -1,8 +1,8 @@
 # Setup
 title: with the moon
-url: http://www.withthemoon.xyz
+url: https://withthemoon.xyz
 paginate: 1
-baseurl: "http://www.withthemoon.xyz"
+baseurl: "https://withthemoon.xyz"
 permalink: pretty
 
 # Gems
