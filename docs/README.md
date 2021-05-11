@@ -1,3 +1,19 @@
+```
+ _______________________________________
+/ greg I love you, believe in you and   \
+\ know you are going to do great things /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+
+
+
+
 # Dark Poole
 
 ![Dark Poole](https://user-images.githubusercontent.com/13270895/89133355-26b3af80-d4e9-11ea-81cd-eacaa9c78320.png)
