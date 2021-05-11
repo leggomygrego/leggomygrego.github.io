@@ -1,8 +1,8 @@
 ---
 layout: page
-title: about
+title: a b o u t
 ---
 
 ## who i am
 
-just some fairy trying to reach out through time to talk to my future self
+a fairy reaching out through time to my future self
