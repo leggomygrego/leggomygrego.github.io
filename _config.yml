@@ -1,7 +1,8 @@
 # Setup
 title: with the moon
-url: http://withthemoon.xyz
+url: http://withthemoon.xzy
 paginate: 1
+paginate_path: "/page:num/"
 baseurl: ""
 permalink: pretty
 
@@ -33,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Greg Allan
-  email: greg@this_domain
+  email: greg@thisdomain
 
 # Custom vars
 version: 3.0.0
